@@ -28,6 +28,7 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="PureTestScript.ps1" />
     <Compile Include="FirstTestProject.psd1" />
     <Compile Include="FirstTestProject.psm1" />
     <Compile Include="FirstTestProject.tests.ps1" />
